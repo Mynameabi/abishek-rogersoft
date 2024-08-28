@@ -4,8 +4,8 @@ function abishek_add(a,b){
 function abishek_diff(a,b){
     return a-b;
 }
-function abishek_mul(a,b){
-    return a*b;
+function abishek_div(a,b){
+    return a/b;
 }
 function abishek_div(a,b){
     return a/b;
